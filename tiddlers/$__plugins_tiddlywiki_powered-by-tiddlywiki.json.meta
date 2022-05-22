@@ -1,0 +1,8 @@
+dependents: 
+description: Powered by TiddlyWiki banner
+list: readme
+name: Powered By TiddlyWiki
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/powered-by-tiddlywiki
+type: application/json
+version: 5.2.2

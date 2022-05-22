@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220522062247796
+modified: 20220522153312702
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -23,5 +23,6 @@ type: text/vnd.tiddlywiki
  ---
 ! HaveFun
 !! Citypop
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=500 height=314  src="https://simple-notion-widgets.vercel.app/music-player/?server=tencent&type=playlist&id=8437040427&list-folded=ture&theme=green&order=random"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=500 height=314  src="https://simple-notion-widgets.vercel.app/music-player/?server=tencent&type=playlist&id=8437040427&list-folded=ture&theme=green&order=random&dark"></iframe>
+
 ---

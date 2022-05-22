@@ -1,9 +1,11 @@
 created: 20220520182411333
-modified: 20220520183008430
+creator: Mynanase
+modified: 20220522153442709
+modifier: Mynanase
 title: 物理
 tmap.id: 893a1db3-cbf0-4dd5-a728-426b7398fadf
 type: text/vnd.tiddlywiki
 
 ! 物理学
 !! 主要科目
-!!! <<list-links filter:"[tag[物理]tag[课程]]">>
+ <<list-links filter:"[tag[物理]tag[课程]]">>
