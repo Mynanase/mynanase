@@ -31,8 +31,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Cloze</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:ewewew</loc>
 		<lastmod>2022-05-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Excerpt</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -94,11 +104,21 @@
 		<loc>https://onetwo.ren/wiki/#:QQ音乐</loc>
 		<lastmod>2022-05-22</lastmod>
 		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Question</loc>
+		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:sdsadasdsa</loc>
 		<lastmod>2022-05-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Select</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -176,6 +196,17 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Untitled</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Word</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:wordtest</loc>
+		<lastmod>2022-05-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -319,7 +350,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:物理</loc>
-		<lastmod>2022-05-20</lastmod>
+		<lastmod>2022-05-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -330,7 +361,25 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:电磁学小论文方向确定</loc>
+		<lastmod>2022-05-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:电磁学第六章</loc>
+		<lastmod>2022-05-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:科学研讨课</loc>
+		<lastmod>2022-05-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:网易云</loc>
 		<lastmod>2022-05-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
