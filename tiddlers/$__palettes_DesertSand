@@ -5,9 +5,9 @@ alert-muted-foreground: #b99e2f
 background: #E9E0C7
 blockquote-bar: <<colour muted-foreground>>
 button-foreground: <<colour foreground>>
-code-background: #F3EDDF
+code-background: #f4eee1
 code-border: #C3BAA1
-code-foreground: #ab3250
+code-foreground: #9d2033
 diff-delete-background: #bd8b8b
 diff-delete-foreground: <<colour foreground>>
 diff-equal-background: 
@@ -118,7 +118,7 @@ wikilist-item: #CDC2A6
 wikilist-info: #161512
 wikilist-title: #433F35
 wikilist-title-svg: <<colour wikilist-title>>
-wikilist-url: #706A58
+wikilist-url: #2734ec
 wikilist-button-open: #7db66a
 wikilist-button-open-hover: #56a556
 wikilist-button-reveal: #5a6c9e
