@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220524042752935
+modified: 20220524091814037
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -11,7 +11,7 @@ tmap.id: 4545edc8-b945-4925-9b37-b9fd86c066dd
 type: text/vnd.tiddlywiki
 
 
-! 主页
+! @@color:{{$:/palettes/Editor##alt-text}};主页@@
 !![[任务]]
 
 !! ''软件''学习
