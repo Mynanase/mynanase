@@ -1,0 +1,1 @@
+<<image-card     lp.jpg width:"30%" align:"left" title:"小黄鸭"   text:"Blog" footer:"2022/5/10" alt:"image alternative text", pos:"top">>
