@@ -19,31 +19,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:card</loc>
-		<lastmod>2022-05-22</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:Cloze</loc>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目%25201&apos;%2520by%2520Mynanase</loc>
-		<lastmod>2022-05-24</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目%25202&apos;%2520by%2520Mynanase</loc>
-		<lastmod>2022-05-24</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520Mynanase</loc>
-		<lastmod>2022-05-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -90,7 +66,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Mynanase</loc>
-		<lastmod>2022-05-23</lastmod>
+		<lastmod>2022-05-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -237,12 +213,6 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:数学知识</loc>
 		<lastmod>2022-05-20</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:新条目%25201</loc>
-		<lastmod>2022-05-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
