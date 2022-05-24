@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220524091814037
+modified: 20220524130825246
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -13,9 +13,11 @@ type: text/vnd.tiddlywiki
 
 ! @@color:{{$:/palettes/Editor##alt-text}};主页@@
 !![[任务]]
-
+!! [[问题区]]
 !! ''软件''学习
  <<list-links filter:"[tag[软件学习]]">>
+ 
+
 !! [[数学]]
  <<list-links filter:"[tag[数学]tag[课程]]">>
 !! [[物理]]
