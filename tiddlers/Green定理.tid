@@ -1,16 +1,15 @@
 created: 20220524123107310
 creator: Mynanase
-modified: 20220524125353461
+modified: 20220524134409103
 modifier: Mynanase
 tags: 学习问题 2022上 cx
 title: Green定理
 tmap.id: 07eb428b-86c0-4f26-9ffc-4592bd5f22a2
 type: text/vnd.tiddlywiki
 
-* Green
+* @@color:{{$:/palettes/Editor##alt-text}};Green@@
 $$
-\int_Lf(x,y) = \iint_S(\frac{\partial f}{\partial y}-\frac{\partial f}{\partial x})dxdy
-$$
+\green{\int_Lf(x,y) = \iint_S(\frac{\partial f}{\partial y}-\frac{\partial f}{\partial x})dxdy}$$
 
 * 对于本题不宜使用''Green''定理,直接参数化比较好
 取极坐标系
