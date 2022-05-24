@@ -50,7 +50,7 @@ notification-border: #939189
 page-background: #e0d3af
 pre-background: #D6CBAA
 pre-border: #CDC2A6
-primary: #26670f
+primary: #298108
 selection-background: #f0e02d
 selection-foreground: <<colour foreground>>
 select-tag-background: #f0e02d
