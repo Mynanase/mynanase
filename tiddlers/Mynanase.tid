@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220524130825246
+modified: 20220524141609424
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -23,7 +23,7 @@ type: text/vnd.tiddlywiki
 !! [[物理]]
  <<list-links filter:"[tag[物理]tag[课程]]">>
  ---
-! HaveFun
+! @@color:{{$:/palettes/Editor##alt-text}};HaveFun@@
 !! Citypop
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=500 height=314  src="https://simple-notion-widgets.vercel.app/music-player/?server=tencent&type=playlist&id=8437040427&list-folded=ture&theme=green&order=random"></iframe>
 
