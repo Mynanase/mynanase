@@ -1,6 +1,8 @@
 created: 20220520134913516
-modified: 20220520183254144
+creator: Mynanase
+modified: 20220601093758918
+modifier: Mynanase
 title: $:/config/PageControlButtons/Visibility/$:/plugins/tiddlywiki/markdown/new-markdown-button
 type: text/vnd.tiddlywiki
 
-show
+hide
