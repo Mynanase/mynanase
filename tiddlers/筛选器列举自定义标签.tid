@@ -1,0 +1,23 @@
+created: 20220601095715555
+creator: Mynanase
+modified: 20220601101028314
+modifier: Mynanase
+tags: Tiddly学习 2022
+title: 筛选器列举自定义标签
+tmap.id: 54e987b2-c380-4853-b812-777c74e97673
+type: text/vnd.tiddlywiki
+
+* `tags[]`表示列举所有标签
+
+* `!prefix[$:/]`排除以`$`开头的标签
+
+* `||`表示并列
+
+* `$:/core/ui/TagTemplate`表示以标签按钮的方式显示每一条符合筛选条件的记录
+* `sort[name]`添加筛选条件
+
+```
+{{{[tags[]!prefix[$:/]sort[name]]||$:/core/ui/TagTemplate }}}
+```
+
+{{{\[tags\[学习]!prefix\[$:/]sort\[学习]]||$:/core/ui/TagTemplate }}}

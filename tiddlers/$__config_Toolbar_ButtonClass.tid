@@ -1,8 +1,8 @@
 created: 20190419034516378
 creator: Mynanase
-modified: 20220523022709064
+modified: 20220601103912470
 modifier: Mynanase
 title: $:/config/Toolbar/ButtonClass
 type: text/vnd.tiddlywiki
 
-tc-btn-boxed
+tc-btn-invisible

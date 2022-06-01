@@ -1,0 +1,21 @@
+created: 20220522151531489
+creator: Mynanase
+modified: 20220601115854244
+modifier: Mynanase
+tags: 
+title: 科学研讨课
+tmap.id: 956f8e9e-25f3-4e2f-90af-28493b4a8a61
+type: text/vnd.tiddlywiki
+
+# 调研任务
+# word学习
+# 补充word
+---
+!!! 目标确定
+* 以性能更好的''RAE2822''的压力系数分布作为目标压力系数分布
+* 通过`profili`获得''RAE2822''翼型
+* 实验后做一个升、租比的表格以及三个压力系数分布的对比图
+* 绘制三个网络模型的模型图
+> 使用''@@color:{{$:/palettes/Editor##alt-text}};ML Visuals@@''
+* 论文引用
+* 前言和结论的书写

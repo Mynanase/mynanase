@@ -1,0 +1,19 @@
+created: 20220601101054216
+creator: Mynanase
+modified: 20220601102528202
+modifier: Mynanase
+tags: Tiddly学习 2022
+title: 创建快捷键
+tmap.id: 7fcb6738-8656-4f71-9188-18598ad55a01
+type: text/vnd.tiddlywiki
+
+!!!! 1.创建具体操作的条目
+> 标题：`$:/pimgeek/shortcuts/name`
+> tag字段：`$:/tags/KeyboardShortcut`
+> key字段：`((name))`
+> caption字段：`{{$:/config/ShortcutInfo/name}}`
+> 正文是具体的执行指令
+!!!! 2.创建配置条目
+> 标题：`$:/config/ShortcutInfo/xyz`
+> 正文为`name`操作对应的中文名称
+!!!! 3.最后打开配置中心，手动设置快捷键
