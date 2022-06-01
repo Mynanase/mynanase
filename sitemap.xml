@@ -7,12 +7,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:C#</loc>
-		<lastmod>2022-05-20</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:C#基本操作</loc>
 		<lastmod>2022-05-20</lastmod>
 		<changefreq>monthly</changefreq>
@@ -135,6 +129,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:TheBrain2level.js</loc>
+		<lastmod>2022-01-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyMap!!</loc>
 		<lastmod>2022-05-21</lastmod>
 		<changefreq>monthly</changefreq>
@@ -159,13 +159,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Tiddly学习</loc>
-		<lastmod>2022-05-23</lastmod>
+		<loc>https://onetwo.ren/wiki/#:Untitled</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Untitled</loc>
+		<loc>https://onetwo.ren/wiki/#:Untitled%25201</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -187,6 +186,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:创建快捷键</loc>
+		<lastmod>2022-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:启动动画</loc>
 		<lastmod>2022-05-21</lastmod>
 		<changefreq>monthly</changefreq>
@@ -200,7 +205,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:图像宏1</loc>
-		<lastmod>2022-05-20</lastmod>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -211,20 +216,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:图标库</loc>
+		<lastmod>2022-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:壁纸.jpg</loc>
 		<lastmod>2022-05-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:徽章1</loc>
-		<lastmod>2022-05-20</lastmod>
+		<loc>https://onetwo.ren/wiki/#:学习资源</loc>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:搜索框语法</loc>
-		<lastmod>2022-05-24</lastmod>
+		<loc>https://onetwo.ren/wiki/#:徽章1</loc>
+		<lastmod>2022-05-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -241,26 +252,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:游戏开发</loc>
-		<lastmod>2022-05-20</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:热力学</loc>
 		<lastmod>2022-05-20</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:热学作业1</loc>
-		<lastmod>2022-05-22</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:热学作业2</loc>
-		<lastmod>2022-05-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -277,14 +270,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:电磁学小论文方向确定</loc>
-		<lastmod>2022-05-22</lastmod>
+		<loc>https://onetwo.ren/wiki/#:科学研讨课</loc>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:电磁学第六章</loc>
-		<lastmod>2022-05-22</lastmod>
+		<loc>https://onetwo.ren/wiki/#:筛选器列举自定义标签</loc>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
