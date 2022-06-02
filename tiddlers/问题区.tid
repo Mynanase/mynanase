@@ -1,10 +1,18 @@
 created: 20220524130604562
 creator: Mynanase
-modified: 20220524130733629
+modified: 20220601133301943
 modifier: Mynanase
 tags: 主页 学习
 title: 问题区
 tmap.id: 98f5806a-33f9-46fb-8db8-e14638ef60bd
 type: text/vnd.tiddlywiki
 
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="学习问题 2022" />
+	开新坑
+</$button>
+<br>
+
+
+---
 <<list-search filter:"[tag[学习问题]]" class:"alert alert-success" placeholder="" ,stateTiddler:"关键词">>

@@ -1,0 +1,18 @@
+created: 20220602115555596
+creator: Mynanase
+draft.of: 新条目
+draft.title: amsthm环境自定义
+modified: 20220602121837941
+modifier: Mynanase
+tags: Notestex 2022 latex
+title: Draft of '新条目' by Mynanase
+type: text/vnd.tiddlywiki
+
+* @@color:{{$:/palettes/Editor##alt-text}};theorems,lemmas,definitions@@ 计数相互独立
+* 如何使环境跨越两页 `breakable` for tcolorbox
+* `borderlinewest={1pt}{0pt}{blue}`
+** 第一个值是线宽
+** 距离左边界的距离
+** 最后一个值声明颜色
+* 六个环境
+** Definition:  

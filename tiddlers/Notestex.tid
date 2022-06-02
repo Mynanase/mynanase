@@ -1,0 +1,21 @@
+created: 20220602114451647
+creator: Mynanase
+modified: 20220602115551821
+modifier: Mynanase
+tags: Latex技能 latex 2022
+title: Notestex
+tmap.id: c3a059f3-55d2-44c2-89ba-26768bc269a4
+type: text/vnd.tiddlywiki
+
+!! Margins
+* Marginnote:`\marginnote{...}` (无序号的)
+* Mn:`\mn{...}`
+* Sidenote:`\sidenote{...}`
+* Sn:`sn{}`
+* Lec:`\lec{ title }{ Text }`
+* Marginfigure:`\begin{marginfigure}...\end{marginfigure}`
+* Margintable: `\begin{margintable}...\end{margintable}`
+<<<
+`sidenote` 不能在 equations,multicols,tcolorbox中使用
+<<<
+
