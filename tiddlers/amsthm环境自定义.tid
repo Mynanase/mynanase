@@ -1,11 +1,10 @@
 created: 20220602115555596
 creator: Mynanase
-draft.of: 新条目
-draft.title: amsthm环境自定义
-modified: 20220602121837941
+modified: 20220603040542094
 modifier: Mynanase
 tags: Notestex 2022 latex
-title: Draft of '新条目' by Mynanase
+title: amsthm环境自定义
+tmap.id: 0bbd9195-a93b-4854-81f0-afdd7848d1aa
 type: text/vnd.tiddlywiki
 
 * @@color:{{$:/palettes/Editor##alt-text}};theorems,lemmas,definitions@@ 计数相互独立
