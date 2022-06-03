@@ -18,6 +18,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520Mynanase</loc>
+		<lastmod>2022-06-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Excerpt</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -48,7 +54,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Latex技能</loc>
-		<lastmod>2022-05-23</lastmod>
+		<lastmod>2022-06-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -66,7 +72,13 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Mynanase</loc>
-		<lastmod>2022-05-26</lastmod>
+		<lastmod>2022-06-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Notestex</loc>
+		<lastmod>2022-06-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -307,13 +319,13 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:部分操作</loc>
-		<lastmod>2022-05-23</lastmod>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:问题区</loc>
-		<lastmod>2022-05-24</lastmod>
+		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
