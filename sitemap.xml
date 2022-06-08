@@ -7,6 +7,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:abolian.jpg</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:amsthm环境自定义</loc>
 		<lastmod>2022-06-03</lastmod>
 		<changefreq>monthly</changefreq>
@@ -47,6 +52,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:HUIYE.jpg</loc>
+		<lastmod>2022-06-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:latex使用markdown(快速开始)</loc>
 		<lastmod>2022-05-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -65,6 +76,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:music</loc>
+		<lastmod>2022-06-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:My</loc>
 		<lastmod>2022-05-21</lastmod>
 		<changefreq>monthly</changefreq>
@@ -72,7 +89,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Mynanase</loc>
-		<lastmod>2022-06-02</lastmod>
+		<lastmod>2022-06-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -107,6 +124,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Shiraz-警告宏</loc>
 		<lastmod>2022-05-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:SPY.jpg</loc>
+		<lastmod>2022-06-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -281,6 +304,17 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:测不准的阿波连同学</loc>
+		<lastmod>2022-06-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:烦疗.jpg</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:热力学</loc>
 		<lastmod>2022-05-20</lastmod>
 		<changefreq>monthly</changefreq>
@@ -295,6 +329,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:电动力学</loc>
 		<lastmod>2022-05-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:番剧</loc>
+		<lastmod>2022-06-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -335,6 +375,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:辉夜大小姐想让我告白3</loc>
+		<lastmod>2022-06-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:这个治疗有点烦</loc>
+		<lastmod>2022-06-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:部分操作</loc>
 		<lastmod>2022-06-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -343,6 +395,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:问题区</loc>
 		<lastmod>2022-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:间谍过家家</loc>
+		<lastmod>2022-06-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
