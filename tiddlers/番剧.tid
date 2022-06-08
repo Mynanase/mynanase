@@ -1,0 +1,22 @@
+created: 20220608021310509
+creator: Mynanase
+modified: 20220608030532024
+modifier: Mynanase
+tags: 2022 番剧
+title: 番剧
+tmap.id: 560f55ca-f4c6-4ab7-b306-37dd41f7a6c6
+type: text/vnd.tiddlywiki
+
+
+
+---
+!!! <$button>
+		<$action-sendmessage title="" text="" tags="202204 番剧"  image="" link="" caption="" $message="tm-new-tiddler" />
+	202204
+</$button>
+
+<div style="font-size:0.7em;text-align:center;margin-top:2em;margin-bottom:2em;">
+<<list-thumbnails filter:"[tag[202204]tag[番剧]]" width:"" height:"150">>
+</div>
+
+---
