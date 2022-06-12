@@ -1,0 +1,11 @@
+author: Riz
+core-version: 5.1.19
+created: 20190407175704425
+dependents: $:/themes/tiddlywiki/vanilla
+description: CleverNote
+modified: 20190426053015015
+name: CleverNote
+plugin-type: theme
+title: $:/plugins/tesseract/CleverNote
+type: application/json
+version: 1.0.49

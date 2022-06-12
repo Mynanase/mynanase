@@ -1,0 +1,13 @@
+caption: Plugin tweaks
+created: 20150801100456266
+creator: TonGerner
+modified: 20220612064817763
+modifier: Mynanase
+status: yes
+tags: $:/tags/ControlPanel/Appearance
+title: $:/plugins/tg/layout/tweaks
+type: text/vnd.tiddlywiki
+up: no
+
+The general layout adjustments can be found under the 'Themes tweak' and 'Layout tweaks' tabs. Dependent on installed plugins other tabs are available ('Top menu', 'Top-left menu', 'Top toolbar', 'Tiddlersbar, '~TabStory', 'Uptoolbar', 'Tristate').
+<<tabs "[all[shadows+tiddlers]tag[$:/tags/plugin-tweaks]nsort[order]]" "$:/plugins/tg/layout/settings" "" "tc-vertical">>

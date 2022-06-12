@@ -1,0 +1,12 @@
+author: TonGerner
+core-version: >=5.1.15
+created: 20191231183604770
+dependents: $:/themes/tiddlywiki/vanilla
+description: Mobile theme
+list: readme license
+modified: 20191231183654002
+name: Mobie
+plugin-type: theme
+title: $:/themes/tg/mobie
+type: application/json
+version: 0.1.6

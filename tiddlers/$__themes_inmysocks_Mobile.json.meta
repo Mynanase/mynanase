@@ -1,0 +1,9 @@
+author: inmysocks
+core-version: >=5.0.0
+dependents: 
+description: Theme for mobile devices
+name: Mobile
+plugin-type: theme
+title: $:/themes/inmysocks/Mobile
+type: application/json
+version: 0.0.2

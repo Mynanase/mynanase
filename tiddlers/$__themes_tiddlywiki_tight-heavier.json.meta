@@ -1,0 +1,9 @@
+author: JeremyRuston
+core-version: >=5.0.0
+dependents: $:/themes/tiddlywiki/tight $:/themes/tiddlywiki/heavier
+description: Tight and Heavier font theme
+name: Tight and Heavier
+plugin-type: theme
+title: $:/themes/tiddlywiki/tight-heavier
+type: application/json
+version: 5.2.1

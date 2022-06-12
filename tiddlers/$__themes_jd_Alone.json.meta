@@ -1,0 +1,13 @@
+author: JD
+core-version: >=5.1.17
+created: 20180626124457008
+creator: jd
+dependents: $:/themes/tiddlywiki/vanilla
+description: Alone
+modified: 20180626124457008
+modifier: jd
+name: Alone
+plugin-type: theme
+title: $:/themes/jd/Alone
+type: application/json
+version: 0.0.6
