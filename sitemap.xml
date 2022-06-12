@@ -35,12 +35,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;Unit8(A)&apos;%2520by%2520Mynanase</loc>
-		<lastmod>2022-06-12</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:Excerpt</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -208,6 +202,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:typora主图</loc>
 		<lastmod>2022-06-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:U8A</loc>
+		<lastmod>2022-06-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
