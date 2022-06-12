@@ -1,0 +1,11 @@
+author: oflg
+core-version: >=5.2.2
+dependents: 
+description: 专四核心词汇
+list: readme
+name: 学习包
+plugin-type: plugin
+source: https://github.com/oflg/TiddlyMemo
+title: $:/plugins/oflg/fishing-cannedfish-Level4luan_2
+type: application/json
+version: 0.1.2

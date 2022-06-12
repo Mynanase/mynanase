@@ -9,7 +9,7 @@
     "fab4": "",
     "fab5": "",
     "fab6": "",
-    "headerbtns": "4",
+    "headerbtns": "5",
     "icon": "{{$:/core/images/menu-button}}",
     "statelists": "no",
     "mobilepopups": "yes",

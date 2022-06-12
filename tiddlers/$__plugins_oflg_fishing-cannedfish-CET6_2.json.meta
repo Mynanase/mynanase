@@ -1,0 +1,11 @@
+author: oflg
+core-version: >=5.2.2
+dependents: 
+description: 六级英语词汇
+list: readme
+name: 学习包
+plugin-type: plugin
+source: https://github.com/oflg/TiddlyMemo
+title: $:/plugins/oflg/fishing-cannedfish-CET6_2
+type: application/json
+version: 0.1.2
