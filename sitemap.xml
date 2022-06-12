@@ -24,6 +24,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:cancel</loc>
+		<lastmod>2022-06-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Cloze</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -304,6 +310,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:注释单词/TagTemplate</loc>
+		<lastmod>2022-06-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:注释单词/标签按</loc>
+		<lastmod>2022-06-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:测不准的阿波连同学</loc>
 		<lastmod>2022-06-08</lastmod>
 		<changefreq>monthly</changefreq>
@@ -358,7 +376,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:英语</loc>
-		<lastmod>2022-06-03</lastmod>
+		<lastmod>2022-06-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
