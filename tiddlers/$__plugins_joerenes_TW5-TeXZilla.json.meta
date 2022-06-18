@@ -1,0 +1,10 @@
+author: JoeRenes
+core-version: >=5.0.8
+dependents: 
+description: Mathematics typesetting plugin wrapping TeXZilla, a LaTeX to MathML parser
+name: TW5-TeXZilla
+plugin-type: plugin
+source: https://github.com/joerenes/TW5-TeXZilla
+title: $:/plugins/joerenes/TW5-TeXZilla
+type: application/json
+version: 0.0.1

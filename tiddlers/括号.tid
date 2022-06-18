@@ -1,0 +1,18 @@
+created: 20220618160040397
+creator: Mynanase
+modified: 20220618161645078
+modifier: Mynanase
+tags: latex 2022 physics包
+title: 括号
+tmap.id: 6f229a1c-d3b6-4923-9960-204b0142e5b6
+type: text/vnd.tiddlywiki
+
+* `\qty` 之后加符号，即生成对应的括号
+* `\pqty` : `()`
+* `\bqty` : `[]`
+* `\vqty` : `||`
+* `\Bqty` : `{}`
+
+---
+* `\abs` : `||`
+* `\norm` : $$||\quad||$$

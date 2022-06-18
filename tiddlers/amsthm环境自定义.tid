@@ -1,13 +1,14 @@
 created: 20220602115555596
 creator: Mynanase
-modified: 20220603040542094
+modified: 20220618161914321
 modifier: Mynanase
 tags: Notestex 2022 latex
 title: amsthm环境自定义
 tmap.id: 0bbd9195-a93b-4854-81f0-afdd7848d1aa
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
-* @@color:{{$:/palettes/Editor##alt-text}};theorems,lemmas,definitions@@ 计数相互独立
+* 计数相互独立theorems,lemmas,definitions
 * 如何使环境跨越两页 `breakable` for tcolorbox
 * `borderlinewest={1pt}{0pt}{blue}`
 ** 第一个值是线宽
@@ -15,3 +16,6 @@ type: text/vnd.tiddlywiki
 ** 最后一个值声明颜色
 * 六个环境
 ** Definition:  
+** sddsds
+
+
