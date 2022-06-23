@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220618161703627
+modified: 20220623142702640
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -10,6 +10,24 @@ title: Mynanase
 tmap.id: 4545edc8-b945-4925-9b37-b9fd86c066dd
 type: text/vnd.tiddlywiki
 
+<fieldset>
+<legend>收集箱</legend>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="idea" />
+	新想法
+</$button>
+
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="“艺术”" />
+	游戏设计
+</$button>
+
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="智慧" />
+	思考
+</$button>
+
+</fieldset>
 
 ! @@color:{{$:/palettes/Editor##alt-text}};主页@@
 !![[任务]]

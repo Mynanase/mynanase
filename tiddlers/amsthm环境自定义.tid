@@ -1,12 +1,11 @@
 created: 20220602115555596
 creator: Mynanase
-modified: 20220618161914321
+modified: 20220623135429327
 modifier: Mynanase
 tags: Notestex 2022 latex
 title: amsthm环境自定义
 tmap.id: 0bbd9195-a93b-4854-81f0-afdd7848d1aa
 type: text/vnd.tiddlywiki
-wysiwyg: yes
 
 * 计数相互独立theorems,lemmas,definitions
 * 如何使环境跨越两页 `breakable` for tcolorbox
@@ -17,5 +16,3 @@ wysiwyg: yes
 * 六个环境
 ** Definition:  
 ** sddsds
-
-
