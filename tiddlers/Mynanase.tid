@@ -2,7 +2,7 @@ author: Mynanase
 created: 20220520165929932
 creator: Mynanase
 icon: 🪶
-modified: 20220623142702640
+modified: 20220628153907684
 modifier: Mynanase
 page-cover: lp.jpg
 tags: 主页
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 </$button>
 
 <$button>
-		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="“艺术”" />
+		<$action-sendmessage $message="tm-new-tiddler" title="新任务" text="""""" tags="设计" />
 	游戏设计
 </$button>
 
